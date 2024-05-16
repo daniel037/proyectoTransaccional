@@ -1,0 +1,38 @@
+[
+  {
+    "cie10": "A000",
+    "nombre": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO CHOLERAE"
+  },
+  {
+    "cie10": "A001",
+    "nombre": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO EL TOR"
+  },
+  {
+    "cie10": "A009",
+    "nombre": "COLERA NO ESPECIFICADO"
+  },
+  {
+    "cie10": "A010",
+    "nombre": "FIEBRE TIFOIDEA"
+  },
+  {
+    "cie10": "A011",
+    "nombre": "FIEBRE PARATIFOIDEA A"
+  },
+  {
+    "cie10": "A012",
+    "nombre": "FIEBRE PARATIFOIDEA B"
+  },
+  {
+    "cie10": "A013",
+    "nombre": "FIEBRE PARATIFOIDEA C"
+  },
+  {
+    "cie10": "A014",
+    "nombre": "FIEBRE PARATIFOIDEA, NO ESPECIFICADA"
+  },
+  {
+    "cie10": "A020",
+    "nombre": "ENTERITIS DEBIDA A SALMONELLA"
+  }
+]

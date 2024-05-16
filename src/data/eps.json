@@ -1,0 +1,858 @@
+[
+    {
+      "codigo": "011001",
+      "nombre": "DIRECCIÓN DISTRITAL DE SALUD DE BOGOTÁ"
+    },
+    {
+      "codigo": "013000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE BOLÍVAR"
+    },
+    {
+      "codigo": "015000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE BOYACÁ"
+    },
+    {
+      "codigo": "017000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CALDAS"
+    },
+    {
+      "codigo": "018000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CAQUETÁ"
+    },
+    {
+      "codigo": "019000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CAUCA"
+    },
+    {
+      "codigo": "020000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CESAR"
+    },
+    {
+      "codigo": "023000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CÓRDOBA"
+    },
+    {
+      "codigo": "025000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CUNDINAMARCA"
+    },
+    {
+      "codigo": "027000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CHOCÓ"
+    },
+    {
+      "codigo": "036904",
+      "nombre": "ASEGURADORA COLSEGUROS S. A."
+    },
+    {
+      "codigo": "036905",
+      "nombre": "ASEGURADORA DE VIDA COLSEGUROS S.A."
+    },
+    {
+      "codigo": "036906",
+      "nombre": "LA EQUIDAD SEGUROS GENERALES ORGANISMO COOPERATIVO -LA EQUIDAD-"
+    },
+    {
+      "codigo": "036937",
+      "nombre": "ASEGURADORA SOLIDARIA DE COLOMBIA LTDA. ENTIDAD COOPERATIVA SOLIDARIA"
+    },
+    {
+      "codigo": "036995",
+      "nombre": "SEGUROS DE VIDA COLPATRIA S.A."
+    },
+    {
+      "codigo": "037024",
+      "nombre": "ACE SEGUROS S.A. (ANTES: CIGNA SEGUROS DE COLOMBIA S.A.)"
+    },
+    {
+      "codigo": "037025",
+      "nombre": "COMPAÑÍA AGRÍCOLA DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "037055",
+      "nombre": "SEGUROS COLPATRIA S.A."
+    },
+    {
+      "codigo": "037085",
+      "nombre": "COMPAÑÍA AGRÍCOLA DE SEGUROS S.A."
+    },
+    {
+      "codigo": "037086",
+      "nombre": "COMPAÑÍA DE SEGUROS BOLÍVAR S.A."
+    },
+    {
+      "codigo": "037116",
+      "nombre": "COMPAÑÍA ASEGURADORA DE FIANZAS S.A., CONFIANZA (VER NOVEDADES 2000)"
+    },
+    {
+      "codigo": "037117",
+      "nombre": "COMPAÑÍA DE SEGUROS DE VIDA AURORA S.A."
+    },
+    {
+      "codigo": "037147",
+      "nombre": "COMPAÑÍA CENTRAL DE SEGUROS S.A. CENTRAL DE SEGUROS"
+    },
+    {
+      "codigo": "037148",
+      "nombre": "SKANDIA COMPAÑÍA DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "037177",
+      "nombre": "ABN AMRO SEGUROS (COLOMBIA) S.A."
+    },
+    {
+      "codigo": "037178",
+      "nombre": "GENERALI COLOMBIA VIDA COMPAÑÍA DE SEGUROS S.A."
+    },
+    {
+      "codigo": "037209",
+      "nombre": "COMPAÑÍA SURAMERICANA DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "037238",
+      "nombre": "COMPAÑÍA DE SEGUROS COLMENA S.A. SEGUROS COLMENA, COLMENA SEGUROS O COLMENA COMPAÑÍA DE SEGUROS O LA"
+    },
+    {
+      "codigo": "041000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE HUILA"
+    },
+    {
+      "codigo": "044000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE GUAJIRA"
+    },
+    {
+      "codigo": "047000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE MAGDALENA"
+    },
+    {
+      "codigo": "050000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE META"
+    },
+    {
+      "codigo": "052000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE NARIÑO"
+    },
+    {
+      "codigo": "054000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE NORTE DE SANTANDER"
+    },
+    {
+      "codigo": "063000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE QUINDÍO"
+    },
+    {
+      "codigo": "066000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE RISARALDA"
+    },
+    {
+      "codigo": "068000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE SANTANDER"
+    },
+    {
+      "codigo": "070000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE SUCRE"
+    },
+    {
+      "codigo": "073000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE TOLIMA"
+    },
+    {
+      "codigo": "076000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE VALLE"
+    },
+    {
+      "codigo": "081000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE ARAUCA"
+    },
+    {
+      "codigo": "085000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE CASANARE"
+    },
+    {
+      "codigo": "086000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE PUTUMAYO"
+    },
+    {
+      "codigo": "088000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE SAN ANDRÉS"
+    },
+    {
+      "codigo": "091000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE AMAZONAS"
+    },
+    {
+      "codigo": "094000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE GUAINÍA"
+    },
+    {
+      "codigo": "095000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE GUAVIARE"
+    },
+    {
+      "codigo": "097000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE VAUPÉS"
+    },
+    {
+      "codigo": "099000",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE VICHADA"
+    },
+    {
+      "codigo": "999999",
+      "nombre": "DESCONOCIDO"
+    },
+    {
+      "codigo": "013-14",
+      "nombre": "GENERALI COLOMBIA-SEGUROS GENERALES S.A"
+    },
+    {
+      "codigo": "013-15",
+      "nombre": "ROYAL & SUN ALLIANCE SEGUROS (COLOMBIA) S.A."
+    },
+    {
+      "codigo": "013-17",
+      "nombre": "COMPAÑÍA MUNDIAL DE SEGUROS S.A."
+    },
+    {
+      "codigo": "013-18",
+      "nombre": "COMPAÑÍA SURAMERICANA DE SEGUROS S.A."
+    },
+    {
+      "codigo": "013-19",
+      "nombre": "CÓNDOR S.A. COMPAÑÍA DE SEGUROS GENERALES"
+    },
+    {
+      "codigo": "013-20",
+      "nombre": "ASEGURADORA EL LIBERTADOR, S.A."
+    },
+    {
+      "codigo": "013-21",
+      "nombre": "CHUBB DE COLOMBIA COMPAÑÍA DE SEGUROS S.A."
+    },
+    {
+      "codigo": "013-22",
+      "nombre": "LA INTERAMERICANA COMPAÑÍA DE SEGUROS GENERALES S.A."
+    },
+    {
+      "codigo": "013-24",
+      "nombre": "LA PREVISORA S.A. COMPAÑÍA DE SEGUROS"
+    },
+    {
+      "codigo": "013-25",
+      "nombre": "SEGUROS ALFA S.A."
+    },
+    {
+      "codigo": "013-26",
+      "nombre": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A."
+    },
+    {
+      "codigo": "013-27",
+      "nombre": "SEGUROS COMERCIALES BOLÍVAR S.A."
+    },
+    {
+      "codigo": "013-29",
+      "nombre": "SEGUROS DEL ESTADO S.A."
+    },
+    {
+      "codigo": "013-30",
+      "nombre": "SEGUREXPO DE COLOMBIA S.A. ASEGURADORA DE CRÉDITO Y DEL COMERCIO EXTERIOR"
+    },
+    {
+      "codigo": "013-33",
+      "nombre": "LIBERTY SEGUROS S.A."
+    },
+    {
+      "codigo": "013-41",
+      "nombre": "BBVA SEGUROS GANADERO COMPAÑÍA DE SEGUROS S.A."
+    },
+    {
+      "codigo": "013-42",
+      "nombre": "COMPAÑÍA DE SEGUROS DE CRÉDITOS COMERCIALES S.A. CREDISEGURO S.A."
+    },
+    {
+      "codigo": "014-13",
+      "nombre": "AIG COLOMBIA SEGUROS DE VIDA S.A. SIGLA: AIG VIDA S.A."
+    },
+    {
+      "codigo": "014-14",
+      "nombre": "CYBERSEGUROS DE COLOMBIA S.A. (ANTES LA NACIONAL COMPAÑÍA DE SEGUROS DE VIDA S.A.)"
+    },
+    {
+      "codigo": "014-15",
+      "nombre": "MUNDIAL DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "014-16",
+      "nombre": "PAN AMERICAN DE COLOMBIA COMPAÑÍA DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "014-17",
+      "nombre": "SEGUROS DE VIDA ALFA S.A. VIDALFA"
+    },
+    {
+      "codigo": "014-18",
+      "nombre": "LIBERTY SEGUROS DE VIDA S.A. (ANTES: LATINOAMERICANA DE SEGUROS DE VIDA)"
+    },
+    {
+      "codigo": "014-19",
+      "nombre": "SEGUROS DE VIDA DEL ESTADO S.A."
+    },
+    {
+      "codigo": "014-20",
+      "nombre": "ROYAL & SUN ALLIANCE SEGUROS DE VIDA (COLOMBIA) S.A."
+    },
+    {
+      "codigo": "014-23",
+      "nombre": "LA PREVISORA VIDA S.A. COMPAÑÍA DE SEGUROS"
+    },
+    {
+      "codigo": "014-25",
+      "nombre": "RIESGOS PROFESIONALES COLMENA S.A. COMPAÑÍA DE SEGUROS DE VIDA"
+    },
+    {
+      "codigo": "014-26",
+      "nombre": "BBV SEGUROS GANADERO COMPAÑÍA DE SEGUROS DE VIDA S.A. - LA GANADERA ADMINISTRADORA DE RIESGOS PROFESIONALES"
+    },
+    {
+      "codigo": "014-27",
+      "nombre": "COMPAÑÍA CENTRAL DE SEGUROS DE VIDA S.A."
+    },
+    {
+      "codigo": "014-28",
+      "nombre": "COMPAÑÍA SURAMERICANA ADMINISTRADORA DE RIESGOS PROFESIONALES Y SEGUROS DE VIDA"
+    },
+    {
+      "codigo": "014-29",
+      "nombre": "LA EQUIDAD SEGUROS DE VIDA ORGANISMO COOPERATIVO -LA EQUIDAD VIDA-"
+    },
+    {
+      "codigo": "014-30",
+      "nombre": "MAPFRE COLOMBIA VIDA S.A."
+    },
+    {
+      "codigo": "05000D",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE ANTIOQUIA"
+    },
+    {
+      "codigo": "08000D",
+      "nombre": "DIRECCIÓN DEPARTAMENTAL DE SALUD DE ATLÁNTICO"
+    },
+    {
+      "codigo": "CCF001",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR CAMACOL, “COMFAMILIAR CAMACOL”"
+    },
+    {
+      "codigo": "CCF002",
+      "nombre": "COMFENALCO ANTIOQUIA E.P.S."
+    },
+    {
+      "codigo": "CCF015",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE CORDOBA “COMFACOR”"
+    },
+    {
+      "codigo": "CCF017",
+      "nombre": "ASFAMILIAS"
+    },
+    {
+      "codigo": "CCF018",
+      "nombre": "CAFAM"
+    },
+    {
+      "codigo": "CCF027",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE NARIÑO COMFAMILIAR"
+    },
+    {
+      "codigo": "CCF029",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE RISARALDA, COMFAMILIAR RISARALDA"
+    },
+    {
+      "codigo": "CCF024",
+      "nombre": "CAJA DE COMPENSACIÓN FAMILIAR DEL HUILA - COMFAMILIAR"
+    },
+    {
+      "codigo": "CCF035",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE BARRANCABERMEJA “CAFABA”"
+    },
+    {
+      "codigo": "CCF037",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE FENALCO DEL TOLIMA COMFENALCO"
+    },
+    {
+      "codigo": "CCF040",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR CARTAGO “COMFACARTAGO”"
+    },
+    {
+      "codigo": "CCF045",
+      "nombre": "FAMISALUD"
+    },
+    {
+      "codigo": "CCF054",
+      "nombre": "CAJA DE COMPENSACION FAMILIAR DE FENALCO COMFENALCO CUNDINAMARCA"
+    },
+    {
+      "codigo": "EAS001",
+      "nombre": "Fondo de Previsión Social del Congreso de la República"
+    },
+    {
+      "codigo": "EAS002",
+      "nombre": "Caja de Previsión Social de la Universidad Industrial de Santander “CAPRUIS”."
+    },
+    {
+      "codigo": "EAS003",
+      "nombre": "Caja de Previsión Social de Nariño."
+    },
+    {
+      "codigo": "EAS004",
+      "nombre": "Caja de Previsión Social Municipal de Bucaramanga ."
+    },
+    {
+      "codigo": "EAS005",
+      "nombre": "División de Servicios Médico Asistencial de la Corporación Autónoma Regional de la Guajira CORPOGUAJIRA."
+    },
+    {
+      "codigo": "EAS006",
+      "nombre": "Dirección Nacional de Sanidad de la Policía Nacional."
+    },
+    {
+      "codigo": "EAS007",
+      "nombre": "Dirección de Sanidad Militar."
+    },
+    {
+      "codigo": "EAS008",
+      "nombre": "Dirección de Sanidad de la Armada Nacional."
+    },
+    {
+      "codigo": "EAS009",
+      "nombre": "Dirección de Sanidad del Ejército Nacional."
+    },
+    {
+      "codigo": "EAS010",
+      "nombre": "Hospital de Sanidad del Ejército Nacional “CB. Eusebio Mejía Soto”."
+    },
+    {
+      "codigo": "EAS011",
+      "nombre": "Hospital Central de la Policía Nacional."
+    },
+    {
+      "codigo": "EAS012",
+      "nombre": "Hospital de la Policía Nacional de Santa Marta."
+    },
+    {
+        "codigo": "EAS013",
+        "nombre": "Departamento Médico y Odontológico del Municipio de Medellín"
+      },
+      {
+        "codigo": "EAS014",
+        "nombre": "División de Servicio Médico del Municipio de Santiago de Cali."
+      },
+      {
+        "codigo": "EAS015",
+        "nombre": "Caja de Previsión Social Departamental del Cauca \"Caprecauca\"."
+      },
+      {
+        "codigo": "EAS016",
+        "nombre": "Empresas Públicas de Medellín Departamento Médico"
+      },
+      {
+        "codigo": "EAS017",
+        "nombre": "Caja de Previsión Social de Boyacá."
+      },
+      {
+        "codigo": "EAS018",
+        "nombre": "Caja Departamental de Previsión de Norte de Santander."
+      },
+      {
+        "codigo": "EAS019",
+        "nombre": "Caja de Previsión Social de la Superintendencia Bancaria ."
+      },
+      {
+        "codigo": "EAS020",
+        "nombre": "Caja de Previsión Social de la Universidad Tecnológica de Choco ."
+      },
+      {
+        "codigo": "EAS021",
+        "nombre": "Caja de Previsión Social de la Universidad Nacional ."
+      },
+      {
+        "codigo": "EAS022",
+        "nombre": "Instituto Colombiano de la Reforma Agraria Programa de Servicio Médico Asistencial del INCORA."
+      },
+      {
+        "codigo": "EAS023",
+        "nombre": "Industria Licorera de Caldas Servicio Médico."
+      },
+      {
+        "codigo": "EAS024",
+        "nombre": "Servicio Médico de la Universidad del Valle."
+      },
+      {
+        "codigo": "EAS025",
+        "nombre": "Fondo de Salud de la Universidad de Córdoba ."
+      },
+      {
+        "codigo": "EAS026",
+        "nombre": "Fondo de Pasivo Social de la Empresa Puertos de Colombia ."
+      },
+      {
+        "codigo": "EAS027",
+        "nombre": "Fondo de Pasivo Social de Ferrocarriles Nacionales de Colombia."
+      },
+      {
+        "codigo": "EAS028",
+        "nombre": "Fondo Prestacional de la Universidad de Nariño."
+      },
+      {
+        "codigo": "EAS029",
+        "nombre": "Empresa de Acueducto y Alcantarillado de Bogotá E.A.A.B."
+      },
+      {
+        "codigo": "EAS030",
+        "nombre": "Caja de Previsión Social de la Universidad de Cartagena"
+      },
+      {
+        "codigo": "EMP002",
+        "nombre": "CAFESALUD MEDICINA PREPAGADA S. A."
+      },
+      {
+        "codigo": "EMP012",
+        "nombre": "HUMANA S.A. COMPAÑÍA DE MEDICINA PREPAGADA"
+      },
+      {
+        "codigo": "EMP014",
+        "nombre": "MEDISALUD COMPAÑÍA COLOMBIANA DE MEDICINA PREPAGADA S.A."
+      },
+      {
+        "codigo": "EMP015",
+        "nombre": "MEDISÁNITAS S.A COMPAÑÍA DE MEDICINA PREPAGADA"
+      },
+      {
+        "codigo": "EMP017",
+        "nombre": "SALUD COLMENA S.A. MEDICINA PREPAGADA."
+      },
+      {
+        "codigo": "EMP019",
+        "nombre": "SALUD COLPATRIA S.A MEDICINA PREPAGADA"
+      },
+      {
+        "codigo": "EMP021",
+        "nombre": "COMPAÑÍA SURAMERICANA DE SERVICIOS DE SALUD S.A SUSALUD MEDICINA PREPAGADA"
+      },
+      {
+        "codigo": "EMP022",
+        "nombre": "VIVIR S.A MEDICINA PREPAGADA"
+      },
+      {
+        "codigo": "EMP023",
+        "nombre": "COMPAÑÍA DE MEDICINA PREPAGADA COLSANITAS S. A."
+      },
+      {
+        "codigo": "EMP024",
+        "nombre": "ASESORÍA NACIONAL EN SALUD MEDICINA PREPAGADA S.A. ASENALS S.A."
+      },
+      {
+        "codigo": "EMP025",
+        "nombre": "CAJA DE COMPENSACIÓN FAMILIAR COMFENALCO VALLE DEL CAUCA"
+      },
+      {
+        "codigo": "EMP028",
+        "nombre": "SALUD COOMEVA MEDICINA PREPAGADA S. A."
+      },
+      {
+        "codigo": "EPS001",
+        "nombre": "Salud Colmena E.P.S. S.A. ALIANSALUD E.P.S."
+      },
+      {
+        "codigo": "EPS002",
+        "nombre": "SALUD TOTAL S.A. E.P.S."
+      },
+      {
+        "codigo": "EPS003",
+        "nombre": "CAFESALUD EP.S."
+      },
+      {
+        "codigo": "EPS004",
+        "nombre": "BONSALUD En Liquidación"
+      },
+      {
+        "codigo": "EPS005",
+        "nombre": "E.P.S. Sanitas S.A."
+      },
+      {
+        "codigo": "EPS006",
+        "nombre": "Instituto de Seguros Sociales EPS"
+      },
+      {
+        "codigo": "EPS007",
+        "nombre": "Unimec E.P.S. S.A."
+      },
+      {
+        "codigo": "EPS008",
+        "nombre": "Compensar E.P.S."
+      },
+      {
+        "codigo": "EPS009",
+        "nombre": "EPS Progr. Comfenalco Antioquia"
+      },
+      {
+        "codigo": "EPS010",
+        "nombre": "SuSalud EPS"
+      },
+      {
+        "codigo": "EPS011",
+        "nombre": "Colseguros E.P.S."
+      },
+      {
+        "codigo": "EPS012",
+        "nombre": "Comfenalco Valle E.P.S."
+      },
+      {
+        "codigo": "EPS013",
+        "nombre": "E.P.S. Saludcoop"
+      },
+      {
+        "codigo": "EPS014",
+        "nombre": "HUMANA VIVIR S.A. EP.S."
+      },
+      {
+        "codigo": "EPS015",
+        "nombre": "Salud Colpatria E.P.S."
+      },
+      {
+        "codigo": "EPS016",
+        "nombre": "COOMEVA EPS S.A."
+      },
+      {
+        "codigo": "EPS017",
+        "nombre": "E.P.S. Famisanar LTDA."
+      },
+      {
+        "codigo": "EPS018",
+        "nombre": "EPS Servicio Occidental de Salud S.A. - EPS-S.O.S. S.A."
+      },
+      {
+        "codigo": "EPS019",
+        "nombre": "EPS Risaralda Ltda. En Liquidación"
+      },
+      {
+        "codigo": "EPS020",
+        "nombre": "CAJA DE PREVISION SOCIAL DE COMUNCIACIONES “CAPRECOM E.P.S.”"
+      },
+      {
+        "codigo": "EPS021",
+        "nombre": "Corporanonimas en Liquidación"
+      },
+      {
+        "codigo": "EPS022",
+        "nombre": "EPS CONVIDA"
+      },
+      {
+        "codigo": "EPS023",
+        "nombre": "CRUZ BLANCA EPS S.A."
+      },
+      {
+        "codigo": "EPS024",
+        "nombre": "CAJANAL EPS"
+      },
+      {
+        "codigo": "EPS025",
+        "nombre": "CAPRESOCA EPS"
+      },
+      {
+        "codigo": "EPS026",
+        "nombre": "SOCIEDAD SOLIDARIA DE SALUD “SOLSALUD E.P.S S.A.”"
+      },
+      {
+        "codigo": "EPS027",
+        "nombre": "BARRANQUILLA SANA E.P.S. En Liquidación"
+      },
+      {
+        "codigo": "EPS028",
+        "nombre": "CALISALUD E.P.S."
+      },
+      {
+        "codigo": "EPS029",
+        "nombre": "E.P.S. de CALDAS S.A."
+      },
+      {
+        "codigo": "EPS030",
+        "nombre": "E.P.S. CONDOR S.A."
+      },
+      {
+        "codigo": "EPS031",
+        "nombre": "SELVASALUD S.A. E.PS."
+      },
+      {
+        "codigo": "EPS032",
+        "nombre": "Metropolitana de Salud EPS en Liquidación"
+      },
+      {
+        "codigo": "EPS033",
+        "nombre": "SALUD VIDA S.A. E.P.S."
+      },
+      {
+        "codigo": "EPS037",
+        "nombre": "NUEVA EPS"
+      },
+      {
+        "codigo": "EPSI05",
+        "nombre": "MALLAMAS"
+      },
+      {
+        "codigo": "ESS002",
+        "nombre": "EMPRESA MUTUAL PARA EL DESARROLLO INTEGRAL DE LA SALUD E.S.S."
+      },
+      {
+        "codigo": "ESS024",
+        "nombre": "COOPERATIVA DE SALUD Y DESARROLLO INTEGRAL DE LA ZONA SUR ORIENTAL DE CARTAGENA LTDA “COOSALUD LTDA\""
+      },
+      {
+        "codigo": "ESS061",
+        "nombre": "ASOCIACION MUTUAL LA SUIZA DE AMERICA EPS INDIGENA"
+      },
+      {
+        "codigo": "ESS062",
+        "nombre": "ASOCIACION MUTUAL LA ESPERANZA ASMET SALUD ESS"
+      },
+      {
+        "codigo": "ESS076",
+        "nombre": "ASOCIACION MUTUAL BARRIOS UNIDOS DE QUIBDO E.S.S."
+      },
+      {
+        "codigo": "ESS091",
+        "nombre": "EMPRESA COOPERATIVA SOLIDARIA DE SALUD “ECOOPSOS”"
+      },
+      {
+        "codigo": "ESS115",
+        "nombre": "ENTIDAD PROMOTORA DE SALUD MALLAMAS EPSI"
+      },
+      {
+        "codigo": "ESS118",
+        "nombre": "EMSSANAR"
+      },
+      {
+        "codigo": "ESS133",
+        "nombre": "COOPERATIVA DE SALUD COMUNITARIA DE GARCIA ROVIRA “COOPSAGAR LTDA”"
+      },
+      {
+        "codigo": "ESS164",
+        "nombre": "ENTIDAD PROMOTORA DE SALUD, PIJAOSALUD EPSI"
+      },
+      {
+        "codigo": "ESS177",
+        "nombre": "ASOCIACION DE CABILDOS INDIGENAS DEL CESAR DUSAKAWI EPSI"
+      },
+      {
+        "codigo": "ESS182",
+        "nombre": "ASOCIACION INDIGENA DEL CAUCA “AIC”"
+      },
+      {
+        "codigo": "ESS184",
+        "nombre": "ASOCIACION DE CABILDOS DEL RESGUARDO INDIGENA SINU DE SAN ANDRES DE SOTAVENTO CORDOBA, SUCRE, MANEXKA"
+      },
+      {
+        "codigo": "ESS188",
+        "nombre": "ASOCIACION MUTUAL EMPRESA SOLIDARIA DE SALUD DE NARIÑO E.S.S. “EMSSANAR E.S.S.”"
+      },
+      {
+        "codigo": "ESS190",
+        "nombre": "EMMANUEL EPS INDIGENA"
+      },
+      {
+        "codigo": "ESS203",
+        "nombre": "TAYRONA EPS INDIGENA"
+      },
+      {
+        "codigo": "ESS207",
+        "nombre": "MUTUAL SER E.S.S."
+      },
+      {
+        "codigo": "ESS208",
+        "nombre": "ANAS WAYUU EPS INDIGENA"
+      },
+      {
+        "codigo": "EXPRES",
+        "nombre": "EXPRESIÓN COLMENA"
+      },
+      {
+        "codigo": "MIN001",
+        "nombre": "FONDO DE SOLIDARIDAD Y GARANTÍA – MINISTERIO DE SALUD"
+      },
+      {
+        "codigo": "PEC001",
+        "nombre": "SERVICIO NACIONAL DE APRENDIZAJE - SENA"
+      },
+      {
+        "codigo": "PEC002",
+        "nombre": "BANCO DE LA REPÚBLICA"
+      },
+      {
+        "codigo": "PEC003",
+        "nombre": "EMPRESA DE TELÉFONOS DE BOGOTÁ - ETB"
+      },
+      {
+        "codigo": "PEC004",
+        "nombre": "FERROCARRILES NACIONALES"
+      },
+      {
+        "codigo": "PEC005",
+        "nombre": "AVIANCA"
+      },
+      {
+        "codigo": "PEC006",
+        "nombre": "BAVARIA"
+      },
+      {
+        "codigo": "RES001",
+        "nombre": "POLICÍA NACIONAL"
+      },
+      {
+        "codigo": "RES002",
+        "nombre": "ECOPETROL"
+      },
+      {
+        "codigo": "RES003",
+        "nombre": "FUERZAS MILITARES"
+      },
+      {
+        "codigo": "RES004",
+        "nombre": "PROINSALUD"
+      },
+      {
+        "codigo": "RES005",
+        "nombre": "FONDO DE PRESTACIONES SOCIALES DEL CONGRESO DE LA REPÚBLICA"
+      },
+      {
+        "codigo": "RES006",
+        "nombre": "INPEC"
+      },
+      {
+        "codigo": "RES007",
+        "nombre": "Unidad Médico Asistencial del Putumayo Empresa Unipersonal UNIMAP E.U."
+      },
+      {
+        "codigo": "UT-001",
+        "nombre": "CAJA SALUD ARS UNION TEMPORAL"
+      },
+      {
+        "codigo": "UT-002",
+        "nombre": "UNION TEMPORAL COMFAMILIARES EN SALUD U.T. (COMFAMILIAR CARTAGENA Y COMFENALCO CARTAGENA)"
+      },
+      {
+        "codigo": "UT-003",
+        "nombre": "UNION TEMPORAL. ARS COMFENALCO (QUINDIO, SANTANDER)"
+      },
+      {
+        "codigo": "UT-004",
+        "nombre": "CAJA DE COMPENSACION FAMILIAR DE ANTIOQUIA “COMFAMA”"
+      },
+      {
+        "codigo": "EPSS34",
+        "nombre": "CAPITAL SALUD EPS"
+      },
+      {
+        "codigo": "EPS044",
+        "nombre": "MEDIMÁS EPS"
+      },
+      {
+        "codigo": "EPS045",
+        "nombre": "MEDIMAS EPS DE RÉGIMEN SUBSIDIADO"
+      }
+    ]

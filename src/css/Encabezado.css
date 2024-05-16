@@ -1,0 +1,15 @@
+/* Estilos personalizados para los enlaces destacados en la barra de navegación */
+.nav-link-destacado {
+    color: #ffffff; /* Color del texto */
+    font-weight: bold; /* Negrita */
+}
+
+.nav-link-destacado:hover {
+    color: #65388f; /* Cambia el color al pasar el ratón por encima */
+}
+
+.navbar-personalizada {
+    background-color: #9a63ce;
+}
+
+

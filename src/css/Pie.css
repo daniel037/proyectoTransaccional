@@ -1,0 +1,5 @@
+#pie-container {
+    margin-top: 50px; /* valor según tus necesidades para dejar espacio entre el contenido y el pie de página */
+    padding: 5px;
+    background-color: #f8f9fa; /* Color de fondo */
+  }
