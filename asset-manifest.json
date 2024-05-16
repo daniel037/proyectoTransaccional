@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/transaccional/static/css/main.d4ac7725.css",
+    "main.js": "/transaccional/static/js/main.3156d1da.js",
+    "static/js/453.39ccc7cf.chunk.js": "/transaccional/static/js/453.39ccc7cf.chunk.js",
+    "static/media/logo2.png": "/transaccional/static/media/logo2.1c1b59ee0cb132b6ff5d.png",
+    "index.html": "/transaccional/index.html",
+    "main.d4ac7725.css.map": "/transaccional/static/css/main.d4ac7725.css.map",
+    "main.3156d1da.js.map": "/transaccional/static/js/main.3156d1da.js.map",
+    "453.39ccc7cf.chunk.js.map": "/transaccional/static/js/453.39ccc7cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ac7725.css",
+    "static/js/main.3156d1da.js"
+  ]
+}
