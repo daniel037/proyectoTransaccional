@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Importa BrowserRouter y Routes
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom'; // Importa BrowserRouter y Routes
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import RegistroPaciente from './components/pacientesForm';
@@ -13,6 +13,7 @@ import './css/Pie.css'
 
 function App() {
   return (
+    
     <Router> {/* Utiliza BrowserRouter */}
       <Encabezado />
       <Routes>
@@ -27,6 +28,7 @@ function App() {
         <Pie />
       </div>
     </Router>
+
   );
 }
 
