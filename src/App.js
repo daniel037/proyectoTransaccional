@@ -21,7 +21,7 @@ function App() {
         <Route path="/paciente" element={<RegistroPaciente />} /> {/* Renderiza el formulario en esta ruta */}
         <Route path="/patologia" element={<RegistroPatologia />} /> {/* Renderiza el formulario en esta ruta */}
         <Route path="/defuncion" element={<CertificadoDefuncion />} /> {/* Renderiza el formulario en esta ruta */}
-        <Route path="/ficha_tecnica" element={<FichaTecnicaForm />} /> {/* Renderiza el formulario en esta ruta */}
+        {/*<Route path="/ficha_tecnica" element={<FichaTecnicaForm />}/> */} {/* Renderiza el formulario en esta ruta */}
         {/* Otras rutas aquí */}
       </Routes>
       <div id="pie-container">

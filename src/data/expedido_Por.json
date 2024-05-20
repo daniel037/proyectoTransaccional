@@ -1,0 +1,21 @@
+[
+  {
+    "codigo": "1",
+    "nombre": "MÉDICO TRATANTE"
+  },
+  {
+    "codigo": "2",
+    "nombre": "MÉDICO NO TRATANTE"
+  },
+  {
+    "codigo": "3",
+    "nombre": "MÉDICO LEGISTA"
+  },
+  {
+    "codigo": "4",
+    "nombre": "PERSONALDE SALUD AUTORIZADO"
+  },{
+    "codigo": "9",
+    "nombre": "DESCONOCIDO"
+  }
+]
