@@ -5,7 +5,7 @@ import dataExpedido from "../data/expedido_Por.json";
 import dataPatologias from "../data/patologias.json";
 import dataCatCausas from "../data/categorias_Causas.json";
 
-const CertificadoDefuncion = () => {
+const RegistroCertificadoDefuncion = () => {
   const [idPaciente, setIdPaciente] = useState("");
   const [numCertificado, setNumCertificado] = useState("");
   const [fechaMuerte, setFechaMuerte] = useState("");
@@ -236,4 +236,4 @@ const CertificadoDefuncion = () => {
   );
 };
 
-export default CertificadoDefuncion;
+export default RegistroCertificadoDefuncion;

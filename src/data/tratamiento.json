@@ -1,0 +1,65 @@
+[
+  {
+    "codigo": "01",
+    "nombre": "SIN TRATAMIENTO"
+  },
+  {
+    "codigo": "02",
+    "nombre": "CIRUGÍA"
+  },
+  {
+    "codigo": "03",
+    "nombre": "RADIOTERAPIA"
+  },
+  {
+    "codigo": "04",
+    "nombre": "QUIMIOTERAPIA"
+  },{
+    "codigo": "05",
+    "nombre": "HORMONOTERAPIA"
+  },
+  {
+    "codigo": "06",
+    "nombre": "INMUNOTERAPIA"
+  },
+  {
+    "codigo": "07",
+    "nombre": "BRAQUITERAPIA"
+  },
+  {
+    "codigo": "08",
+    "nombre": "PALIATIVO"
+  },
+  {
+    "codigo": "09",
+    "nombre": "FARMACOLÓGICO"
+  },
+  {
+    "codigo": "10",
+    "nombre": "YODOTERAPIA"
+  },
+  {
+    "codigo": "11",
+    "nombre": "TRATAMIENTO ALTERNATIVO"
+  },
+  {
+    "codigo": "12",
+    "nombre": "TRANSPLANTE HEMATOLÓGICO"
+  },
+  {
+    "codigo": "13",
+    "nombre": "PROCEDIMIENTOS ENDOCRINOS"
+  },
+  {
+    "codigo": "14",
+    "nombre": "CUIDADOS PALIATIVOS"
+  },
+  {
+    "codigo": "15",
+    "nombre": "OTROS"
+  },
+  {
+    "codigo": "99",
+    "nombre": "DESCONOCIDO"
+  }
+]

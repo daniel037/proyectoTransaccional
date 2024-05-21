@@ -4,7 +4,8 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import RegistroPaciente from './components/pacientesForm';
 import RegistroPatologia from './components/patologiasForm';
-import CertificadoDefuncion from './components/defuncionForm';
+import RegistroCertificadoDefuncion from './components/defuncionForm';
+import RegistroTratamiento from './components/tratamiento';
 import FichaTecnicaForm from './components/fichaTecnicaForm';
 import Encabezado from './components/encabezado';
 import Pie from './components/pie_pagina';
@@ -20,7 +21,8 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/paciente" element={<RegistroPaciente />} /> {/* Renderiza el formulario en esta ruta */}
         <Route path="/patologia" element={<RegistroPatologia />} /> {/* Renderiza el formulario en esta ruta */}
-        <Route path="/defuncion" element={<CertificadoDefuncion />} /> {/* Renderiza el formulario en esta ruta */}
+        <Route path="/tratamiento" element={<RegistroTratamiento />} /> {/* Renderiza el formulario en esta ruta */}
+        <Route path="/defuncion" element={<RegistroCertificadoDefuncion />} /> {/* Renderiza el formulario en esta ruta */}
         {/*<Route path="/ficha_tecnica" element={<FichaTecnicaForm />}/> */} {/* Renderiza el formulario en esta ruta */}
         {/* Otras rutas aquí */}
       </Routes>

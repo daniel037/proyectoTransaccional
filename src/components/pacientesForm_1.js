@@ -8,9 +8,7 @@ const RegistroPaciente = () => {
     const [numeroIdentificacion, setNumeroIdentificacion] = useState('');
     const [tieneTumor, setTieneTumor] = useState('');
     const [primerNombre, setPrimerNombre] = useState('');
-    const [segundoNombre, setSegundoNombre] = useState('');
     const [primerApellido, setPrimerApellido] = useState('');
-    const [segundoApellido, setSegundoApellido] = useState('');
     const [edad, setEdad] = useState('');
     const [sexo, setSexo] = useState('');
     const [fechaNacimiento, setFechaNacimiento] = useState('');
@@ -99,34 +97,13 @@ const RegistroPaciente = () => {
                         </Form.Group>
 
                         <Form.Group controlId="primerNombre">
-                            <Form.Label className='campo_obligatorio'>Primer Nombre </Form.Label>
+                            <Form.Label className='campo_obligatorio'>Nombres </Form.Label>
                             <Form.Control type="text" value={primerNombre} onChange={(e) => setPrimerNombre(e.target.value)} required />
                         </Form.Group>
 
-                        <Form.Group controlId="segundoNombre">
-                            <Form.Label > Segundo Nombre </Form.Label>
-                            <Form.Control type="text" value={segundoNombre} onChange={(e) => setSegundoNombre(e.target.value)}  />
-                        </Form.Group>
-
                         <Form.Group controlId="primerApellido">
-                            <Form.Label className='campo_obligatorio'>Primer Apellido</Form.Label>
+                            <Form.Label className='campo_obligatorio'>Apellidos </Form.Label>
                             <Form.Control type="text" value={primerApellido} onChange={(e) => setPrimerApellido(e.target.value)} required />
-                        </Form.Group>
-
-                        <Form.Group controlId="segundoApellido">
-                            <Form.Label >Segundo Apellidos</Form.Label>
-                            <Form.Control type="text" value={segundoApellido} onChange={(e) => setSegundoApellido(e.target.value)}  />
-                        </Form.Group>
-
-                        <Form.Group controlId="fechaNacimiento">
-                            <Form.Label className='campo_obligatorio'>Fecha de Nacimiento </Form.Label>
-                            <Form.Control type="date" value={fechaNacimiento} onChange={(e) => setFechaNacimiento(e.target.value)} required />
-                        </Form.Group>
-                    </Col>
-                    <Col md={6}>
-                        <Form.Group controlId="edad">
-                            <Form.Label className='campo_obligatorio'>Edad </Form.Label>
-                            <Form.Control type="number" value={edad} onChange={(e) => setEdad(e.target.value)} required />
                         </Form.Group>
 
                         <Form.Group controlId="sexo">
@@ -138,7 +115,17 @@ const RegistroPaciente = () => {
                                 <option value="0">Desconocido</option>
                             </Form.Control>
                         </Form.Group>
-                        
+                        <Form.Group controlId="fechaNacimiento">
+                            <Form.Label className='campo_obligatorio'>Fecha de Nacimiento </Form.Label>
+                            <Form.Control type="date" value={fechaNacimiento} onChange={(e) => setFechaNacimiento(e.target.value)} required />
+                        </Form.Group>
+
+                    </Col>
+                    <Col md={6}>
+                        <Form.Group controlId="edad">
+                            <Form.Label className='campo_obligatorio'>Edad </Form.Label>
+                            <Form.Control type="number" value={edad} onChange={(e) => setEdad(e.target.value)} required />
+                        </Form.Group>
                         <Form.Group controlId="estadoCivil">
                             <Form.Label className='campo_obligatorio'>Estado Civil </Form.Label>
                             <Form.Control as="select" value={estadoCivil} onChange={(e) => setEstadoCivil(e.target.value)} required>
@@ -151,20 +138,6 @@ const RegistroPaciente = () => {
                                 <option value="9">Desconocido</option>
                             </Form.Control>
                         </Form.Group>
-
-                        <Form.Group controlId="telefono1">
-                            <Form.Label>Teléfono 1</Form.Label>
-                            <Form.Control type="tel" value={telefono1} onChange={handleTelefonoChange1} maxLength={10} placeholder="Máximo 10 números" />
-                        </Form.Group>
-                        <Form.Group controlId="telefono2">
-                            <Form.Label>Teléfono 2</Form.Label>
-                            <Form.Control type="tel" value={telefono2} onChange={handleTelefonoChange2} maxLength={10} placeholder="Máximo 10 números" />
-                        </Form.Group>
-                        <Form.Group controlId="telefono3">
-                            <Form.Label>Teléfono 3</Form.Label>
-                            <Form.Control type="tel" value={telefono3} onChange={handleTelefonoChange3} maxLength={10} placeholder="Máximo 10 números" />
-                        </Form.Group>
-
                         <Form.Group controlId="nivelEducativo">
                             <Form.Label>Nivel Educativo</Form.Label>
                             <Form.Control as="select" value={nivelEducativo} onChange={(e) => setNivelEducativo(e.target.value)}>
@@ -182,6 +155,18 @@ const RegistroPaciente = () => {
                                 <option value="99">DESCONOCIDO</option>
                             </Form.Control>
                         </Form.Group>
+                        <Form.Group controlId="telefono1">
+                            <Form.Label>Teléfono 1</Form.Label>
+                            <Form.Control type="tel" value={telefono1} onChange={handleTelefonoChange1} maxLength={10} placeholder="Máximo 10 números" />
+                        </Form.Group>
+                        <Form.Group controlId="telefono2">
+                            <Form.Label>Teléfono 2</Form.Label>
+                            <Form.Control type="tel" value={telefono2} onChange={handleTelefonoChange2} maxLength={10} placeholder="Máximo 10 números" />
+                        </Form.Group>
+                        <Form.Group controlId="telefono3">
+                            <Form.Label>Teléfono 3</Form.Label>
+                            <Form.Control type="tel" value={telefono3} onChange={handleTelefonoChange3} maxLength={10} placeholder="Máximo 10 números" />
+                        </Form.Group>
                     </Col>
                 </Row>
                 <hr></hr>
@@ -189,14 +174,6 @@ const RegistroPaciente = () => {
                 <hr></hr>
                 <Row className="mb-3 flex-wrap justify-content-start">
                     <Col md={6}>
-                        <Form.Group controlId="eps">
-                            <Form.Label>EPS</Form.Label>
-                            <Form.Control as="select" value={selectedEps} onChange={(e) => setSelectedEps(e.target.value)}>
-                                <option value="">Seleccionar</option>
-                                {epsOptions}
-                            </Form.Control>
-                        </Form.Group>
-
                         <Form.Group controlId="tipoAfiliacion">
                             <Form.Label>Tipo de Afiliación</Form.Label>
                             <Form.Control as="select" value={tipoAfiliacion} onChange={(e) => setTipoAfiliacion(e.target.value)}>
@@ -210,10 +187,35 @@ const RegistroPaciente = () => {
                                 <option value="9">DESCONOCIDO</option>
                             </Form.Control>
                         </Form.Group>
-                        
+                        <Form.Group controlId="eps">
+                            <Form.Label>EPS</Form.Label>
+                            <Form.Control as="select" value={selectedEps} onChange={(e) => setSelectedEps(e.target.value)}>
+                                <option value="">Seleccionar</option>
+                                {epsOptions}
+                            </Form.Control>
+                        </Form.Group>
+                        <Form.Group controlId="tieneTumor">
+                            <Form.Label>Tiene Tumor</Form.Label>
+                            <Form.Control as="select" value={tieneTumor} onChange={(e) => setTieneTumor(e.target.value)}>
+                                <option value="">Seleccionar</option>
+                                <option value="Si">Si</option>
+                                <option value="No">No</option>
+                            </Form.Control>
+                        </Form.Group>
                     </Col>
                     <Col md={6}>
-                        
+                        <Form.Group controlId="validacion">
+                            <Form.Label>Validación</Form.Label>
+                            <Form.Control as="select" value={validacion} onChange={(e) => setValidacion(e.target.value)}>
+                                <option value="">Seleccionar</option>
+                                <option value="1">VÁLIDA</option>
+                                <option value="2">INVÁLIDA</option>
+                                <option value="3">NO ES POSIBLE VALIDAR</option>
+                                <option value="4">PENDIENTE</option>
+                                <option value="9">SIN VALIDAR</option>
+
+                            </Form.Control>
+                        </Form.Group>
                         <Form.Group controlId="estadoVital">
                             <Form.Label>Estado Vital</Form.Label>
                             <Form.Control as="select" value={estadoVital} onChange={(e) => setEstadoVital(e.target.value)}>
@@ -234,6 +236,10 @@ const RegistroPaciente = () => {
             </div>
           </div>
 
+     
+           
+            
+    
         </Container >
     );
 };
